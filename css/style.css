@@ -219,3 +219,8 @@ i {
 .copyrightInfo {
     margin-left: 8rem;
 }
+
+.footerText {
+    color: #CF8996;
+    font-family: 'Montserrat', sans-serif;
+}
